@@ -1,0 +1,15 @@
+/home/sedron/Documentos/Cursos/C#-Platzi/bin/Debug/net7.0/C#-Platzi
+/home/sedron/Documentos/Cursos/C#-Platzi/bin/Debug/net7.0/C#-Platzi.deps.json
+/home/sedron/Documentos/Cursos/C#-Platzi/bin/Debug/net7.0/C#-Platzi.runtimeconfig.json
+/home/sedron/Documentos/Cursos/C#-Platzi/bin/Debug/net7.0/C#-Platzi.dll
+/home/sedron/Documentos/Cursos/C#-Platzi/bin/Debug/net7.0/C#-Platzi.pdb
+/home/sedron/Documentos/Cursos/C#-Platzi/obj/Debug/net7.0/C#-Platzi.csproj.AssemblyReference.cache
+/home/sedron/Documentos/Cursos/C#-Platzi/obj/Debug/net7.0/C#-Platzi.GeneratedMSBuildEditorConfig.editorconfig
+/home/sedron/Documentos/Cursos/C#-Platzi/obj/Debug/net7.0/C#-Platzi.AssemblyInfoInputs.cache
+/home/sedron/Documentos/Cursos/C#-Platzi/obj/Debug/net7.0/C#-Platzi.AssemblyInfo.cs
+/home/sedron/Documentos/Cursos/C#-Platzi/obj/Debug/net7.0/C#-Platzi.csproj.CoreCompileInputs.cache
+/home/sedron/Documentos/Cursos/C#-Platzi/obj/Debug/net7.0/C#-Platzi.dll
+/home/sedron/Documentos/Cursos/C#-Platzi/obj/Debug/net7.0/refint/C#-Platzi.dll
+/home/sedron/Documentos/Cursos/C#-Platzi/obj/Debug/net7.0/C#-Platzi.pdb
+/home/sedron/Documentos/Cursos/C#-Platzi/obj/Debug/net7.0/C#-Platzi.genruntimeconfig.cache
+/home/sedron/Documentos/Cursos/C#-Platzi/obj/Debug/net7.0/ref/C#-Platzi.dll
